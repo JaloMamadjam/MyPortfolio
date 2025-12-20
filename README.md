@@ -1,16 +1,42 @@
-# React + Vite
+# 🚀 Computer Engineering Portfolio | Mamadjam Jalo
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Professional portfolio developed to showcase the intersection between hardware engineering and software development. Built with React, Tailwind CSS, and Framer Motion.
 
-Currently, two official plugins are available:
+## 🔗 https://myportfolio-ten-livid-84.vercel.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🛠 Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+**Frontend & Logic:**
+* **React.js** (Vite)
+* **Tailwind CSS** (Styling)
+* **Framer Motion** (Animations)
+* **Lucide React** (Icons)
 
-## Expanding the ESLint configuration
+**Hardware & Engineering Background:**
+* **Languages:** C/C++, VHDL, Python, Assembly.
+* **Embedded:** PIC16F877A, SoC, FPGA.
+* **Context:** B.S. in Computer Engineering @ UFSC.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ✨ Key Features
+
+* **Custom Circuit Logo:** A unique SVG monogram representing PCB traces and engineering precision.
+* **Professional Timeline:** Detailed experience section highlighting roles at EJEC (Junior Enterprise) and 1 year 4 months as a Software Developer.
+* **Hardware/Software Bridge:** Showcasing projects from low-level embedded systems to high-level web applications.
+* **Optimized UX:** Smooth scroll reveals and hover effects with a dedicated `Reveal` component architecture.
+* **Mobile First:** Fully responsive design for all devices.
+
+---
+
+## 📂 Project Structure
+
+```bash
+src/
+ ├── assets/          # Static assets (Profile photo, CV PDF)
+ ├── components/      # Reusable components (Logo.jsx, Reveal.jsx)
+ ├── sections/        # Page sections (Hero, About, Projects, Experience)
+ ├── App.jsx          # Main application orchestrator
+ └── index.css        # Tailwind directives and custom fonts
