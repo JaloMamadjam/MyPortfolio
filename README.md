@@ -2,7 +2,7 @@
 
 Professional portfolio developed to showcase the intersection between hardware engineering and software development. Built with React, Tailwind CSS, and Framer Motion.
 
-## 🔗 https://myportfolio-ten-livid-84.vercel.app/
+## 🔗 https://my-portfolio-lilac-six.vercel.app/
 
 ---
 
