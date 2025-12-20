@@ -29,7 +29,7 @@ export default function Navbar() {
   return (
     <nav 
       ref={navRef} 
-      className="fixed w-full pl-3 pr-10 bg-slate-950/80 backdrop-blur-md z-50 border-b border-slate-900"
+      className="fixed w-full pl-3 pr-16 bg-slate-950/80 backdrop-blur-md z-50 border-b border-slate-900"
     >
       <div className="max-w-7xl mx-auto flex justify-between items-center h-16">
         {/* Logo */}

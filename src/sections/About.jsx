@@ -16,9 +16,7 @@ export default function About() {
             
             {/* Destaque de Experiência */}
             <div className="flex items-center gap-4 bg-slate-900/50 p-4 rounded-xl border border-slate-800">
-              <div className="bg-blue-500/10 p-3 rounded-full text-blue-400 shrink-0">
-                <Terminal size={24} />
-              </div>
+              
               <div>
                 <p className="text-white font-bold text-base md:text-lg">Software Developer</p>
                 <p className="text-slate-400 text-sm">1 year and 4 months of experience</p>

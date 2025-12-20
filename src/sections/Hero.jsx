@@ -6,7 +6,7 @@ export default function Hero() {
   const socialClass = "text-slate-400 hover:text-blue-400 transition-colors hover:-translate-y-1 transform p-2 border border-slate-800 rounded-md hover:border-blue-400/50 bg-slate-900/50";
 
   return (
-    <section id="hero" className="min-h-screen flex items-center justify-center px-8 pt-20 md:pt-0 max-w-6xl mx-auto">
+    <section id="hero" className="min-h-screen flex items-center justify-center px-8 pt-28 md:pt-0 max-w-6xl mx-auto">
       <div className="grid grid-cols-1 lg:grid-cols-12 gap-12 items-center w-full">
         
         {/* --- LADO ESQUERDO: A FOTO (COR ORIGINAL + ZOOM) --- */}
