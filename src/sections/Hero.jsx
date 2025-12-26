@@ -64,7 +64,7 @@ export default function Hero() {
           <Reveal delay={0.5}>
             <div className="flex flex-wrap gap-4 items-center">
               <a 
-                href="https://www.canva.com/design/DAGrr-SlT_s/9Emr1zew_7_PDR2qAkj20A/edit?utm_content=DAGrr-SlT_s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" 
+                href="/cv-mamadjam.pdf" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="group flex items-center gap-2 px-6 py-3 bg-blue-600 text-white rounded-md hover:bg-blue-700 transition-all font-mono font-bold shadow-lg shadow-blue-900/20"
